@@ -63,3 +63,5 @@ class BinarySearchTree {
     return values
   }
 }
+
+module.exports = BinarySearchTree
